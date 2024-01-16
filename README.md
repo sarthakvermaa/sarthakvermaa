@@ -12,14 +12,15 @@
 
 
 
-<!--<br>
-<div align='center'>
-	<div style="display: flex;">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mannxxx&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannxxx&layout=compact&theme=cobalt&show_icons=true&hide_border=true&langs_count=6" />
-		<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Mannxxx&theme=cobalt&hide_border=true" />
-	</div>
-</div> ->
+## &#x1f4c8; GitHub Stats
+<div align="center" >
+    <a  href="https://github.com/Mannxxx">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarthakvermaa&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarthakvermaa&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarthakvermaa&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthakvermaa&theme=dark" width="100%" height="50%">
+    </a>
+</div>
 
 
 <br>
